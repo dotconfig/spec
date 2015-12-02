@@ -24,8 +24,8 @@ TODO: BNF goes here
 
 ```
 {
-    email: "foo@example.com"
-    password: "s3cret"
+    email: "foo@example.com",
+    password: "s3cret",
 }
 ```
 
